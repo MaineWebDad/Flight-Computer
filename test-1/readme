@@ -1,1 +1,2 @@
-This is the readme.
+Concept testing:
+This approach will be tested in three steps over the summer and fall. Step 1 will be to connect the Arduino to the RPi through a wired serial connection and get them talking to each other. Step 2 will be to connect each device's serial I/O to a modem (terminal node controller or TNC), connected in turn to a ham radio to create a package. The two packages will communicate with each other over the air. Step 3 will be to move the two packages as far apart as possible, the goal being communication over a 20 mile line-of-sight separation. (The balloon is expected to reach a max altitude of 100,000 ft.) 
